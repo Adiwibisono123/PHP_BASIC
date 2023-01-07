@@ -11,7 +11,7 @@ $orangeJuice = 5000;
 // $total = $total + $orangeJuice;
 
 // bisa dipersingkat dengan menggunakan operator penugasan
-$total += $fruit;
-$total -= $chicken;
+// $total += $fruit;
+// $total -= $chicken;
 $total /= $orangeJuice;
 var_dump($total);
